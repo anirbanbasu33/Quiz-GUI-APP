@@ -6,6 +6,7 @@ Commit2: My Tkinter Version
 Commit3: Updated Tkinter from Angela
 Commit4: Question placed on GUI...Class parameter passing
 Commit5: My attempt to track right/wrong at GUI
+Commit6: Final version
 
 
 Post commit- "Updated tkinter from Angela"
